@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/galenframework/galen.jar"/>
+	<classpathentry kind="lib" path="C:/EMP_QA_Automation_Sel_1011_Dogwood_Comp/lib/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/EMP_QA_Automation_Sel_1011_Dogwood_Comp/lib/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="C:/EMP_QA_Automation_Sel_1011_Dogwood_Comp/lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/EMP_QA_Automation_Sel_1011_Dogwood_Comp/lib/poi-scratchpad-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/EMP_QA_Automation_Sel_1011_Dogwood_Comp/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/EMP_QA_Automation_Sel_1011_Dogwood_Comp/lib/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/EMP_QA_Automation_Sel_1011_Dogwood_Comp/lib/poi-excelant-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/EMP_QA_Automation_Sel_1011_Dogwood_Comp/lib/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/EMP_QA_Automation_Sel_1011_Dogwood_Comp/lib/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/EMP_QA_Automation_Sel_1011_Dogwood_Comp/lib/poi-examples-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/EMP_QA_Automation_Sel_1011_Dogwood_Comp/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/EMP_QA_Automation_Sel_1011_Dogwood_Comp/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/EMP_QA_Automation_Sel_1011_Dogwood_Comp/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/EMP_QA_Automation_Sel_1011_Dogwood_Comp/lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/EMP_QA_Automation_Sel_1011_Dogwood_Comp/lib/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/EMP_QA_Automation_Sel_1011_Dogwood_Comp/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/EMP_QA_Automation_Sel_1011_Dogwood_Comp/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/EMP_QA_Automation_Sel_1011_Dogwood_Comp/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/EMP_QA_Automation_Sel_1011_Dogwood_Comp/lib/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="C:/EMP_QA_Automation_Sel_1011_Dogwood_Comp/lib/selenium-server-standalone-2.39.0.jar"/>
+	<classpathentry kind="lib" path="C:/EMP_QA_Automation_Sel_1011_Dogwood_Comp/lib/selendroid-standalone-0.17.0-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="C:/EMP_QA_Automation_Sel_1011_Dogwood_Comp/lib/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/EMP_QA_Automation_Sel_1011_Dogwood_Comp/lib/extentreports-java-2.40.1-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/EMP_QA_Automation_Sel_1011_Dogwood_Comp/lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/EMP_QA_Automation_Sel_1011_Dogwood_Comp/lib/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/EMP_QA_Automation_Sel_1011_Dogwood_Comp/lib/jaxen-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/EMP_QA_Automation_Sel_1011_Dogwood_Comp/lib/selendroid-client-0.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/EMP_QA_Automation_Sel_1011_Dogwood_Comp/lib/jcommander-1.5.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
